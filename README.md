@@ -5,7 +5,7 @@
 ## Check Dashboard Here : 
 ## [LIVE DASHBOARD](https://project.novypro.com/CVMH7F)
 ## [LINKEDIN POST]()
-## [YOUTUBE VIDEO]()
+## [YOUTUBE VIDEO](https://youtu.be/ZkzLYNFPqwk)
 
 ## Introduction
 Welcome to our Power BI project! This comprehensive report features 5 dynamic dashboards, each designed to provide critical insights and facilitate data-driven decision-making. This project is part of the Code Basics Power BI course.
