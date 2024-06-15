@@ -3,7 +3,7 @@
   <img src = "https://github.com/bharath-amaresam/BI-360/assets/82637423/9648cdd9-d7d8-48cb-a3fb-0df81a37e7e5" width="400" height="200"/>
 
 ## Check Dashboard Here : 
-## [LIVE DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNjlkY2VmMGEtNmEzNi00OTNkLTkxMGUtNmM1MzJkZmVmYTA3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=ReportSection0f946e18580936e448d6)
+## [LIVE DASHBOARD](https://project.novypro.com/CVMH7F)
 ## [LINKEDIN POST]()
 ## [YOUTUBE VIDEO]()
 
