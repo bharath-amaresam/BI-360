@@ -1,4 +1,4 @@
-# 5 in 1 Power BI 360 Dashboard 📊
+# 5 in 1 Power BI 360 Dashboard - Business Insights 360 📊
 
   <img src = "https://github.com/bharath-amaresam/BI-360/assets/82637423/9648cdd9-d7d8-48cb-a3fb-0df81a37e7e5" width="400" height="200"/>
 
@@ -62,3 +62,14 @@ Welcome to our Power BI project! This comprehensive report features 5 dynamic da
 
 ## Conclusion
 This Power BI report is designed to provide actionable insights across various business domains. With interactive filters and comprehensive visualizations, it empowers stakeholders to make informed decisions based on real-time data. Explore each dashboard to uncover valuable trends and metrics tailored to your business needs.
+
+## Hey Im Bharath 👋 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Amaresam-Sai-Bharath-Chand)
+&emsp;
+[![Gmail](https://img.shields.io/badge/bharath.temp3@gmail.com-white?logo=Gmail)](mailto:bharath.temp3@gmail.com)
+&emsp;
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaresam-sai-bharath-chand-47ba50168/)
+&emsp;
+[![youtube](https://img.shields.io/badge/youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=red)](https://youtu.be/ZkzLYNFPqwk)
+&emsp;
+
